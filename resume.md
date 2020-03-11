@@ -14,10 +14,10 @@ Other often used skills: Consultative Sales Process, Customer Relations, Custome
 
 ### Trilogy Education Services - Lead Instructor/Software Engineer
 3/17 - Present
-Responsible for teaching course content and leading/developing teaching staff to achieve professional growth goals. Ensure compliance of all staff with Trilogy and partner regulations.
-Coaching and educating instructional staff on classroom best practices
-Work with the curriculum team to fix bugs and update lesson plans
-Consistently delivered curriculum to students and achieved NPS scores of 70+ for 9 cohorts
+--*Responsible for teaching course content and leading/developing teaching staff to achieve professional growth goals. Ensure compliance of all staff with Trilogy and partner regulations.
+--*Coaching and educating instructional staff on classroom best practices
+--*Work with the curriculum team to fix bugs and update lesson plans
+--*Consistently delivered curriculum to students and achieved NPS scores of 70+ for 9 cohorts
 
 ### University of Arizona - Lead Instructor
 3/17 - Present
