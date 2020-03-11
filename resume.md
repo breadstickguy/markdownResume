@@ -3,8 +3,11 @@
 <p align="center">480-227-6504 brenner.jj@gmail.com</p>
   
 Dedicated software development and sales engineering professional who works well as an individual contributor and in a team environment. Possesses strong organizational and multitasking skills as well as keen problem-solving capabilities. Diverse background also includes proficiency in training, web and software development, policy/procedure implementation and development, sales and sales analysis. 
+
 What I do currently:  Web Development, Software Engineering, Javascript, Node, Angular, React, JQuery, PHP, Laravel, SaaS, SQL, MySQL, HTML, CSS, TDD
+
 What I’ve done in the past: Python / Django, Ruby/Ruby on Rails, Java, Go / Golang
+
 Other often used skills: Consultative Sales Process, Customer Relations, Customer Service, Mentoring
 
 # EMPLOYMENT HISTORY
