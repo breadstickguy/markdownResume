@@ -14,22 +14,22 @@ Other often used skills: Consultative Sales Process, Customer Relations, Custome
 
 ### Trilogy Education Services - Lead Instructor/Software Engineer
 3/17 - Present
---*Responsible for teaching course content and leading/developing teaching staff to achieve professional growth goals. Ensure compliance of all staff with Trilogy and partner regulations.
---*Coaching and educating instructional staff on classroom best practices
---*Work with the curriculum team to fix bugs and update lesson plans
---*Consistently delivered curriculum to students and achieved NPS scores of 70+ for 9 cohorts
+  *Responsible for teaching course content and leading/developing teaching staff to achieve professional growth goals. Ensure compliance of all staff with Trilogy and partner regulations.
+  *Coaching and educating instructional staff on classroom best practices
+  *Work with the curriculum team to fix bugs and update lesson plans
+  *Consistently delivered curriculum to students and achieved NPS scores of 70+ for 9 cohorts
 
 ### University of Arizona - Lead Instructor
 3/17 - Present
-Primary instructor for computer science/programming bootcamp
-Actively develop and maintain lesson plans, software,  and presentations for the course
-Mentor new developers in programming techniques, fundamentals, and full stack programming(Mongo/MySQL, React, Node)
+  *Primary instructor for computer science/programming bootcamp
+  *Actively develop and maintain lesson plans, software,  and presentations for the course
+  *Mentor new developers in programming techniques, fundamentals, and full stack programming(Mongo/MySQL, React, Node)
 
 ### Food for the Hungry - Senior Software Engineer
 5/16 - 10/17
-Serve as main point of contact for web services department and interface with all layers of organization
-Architect and build new features for multiple departments
-Currently leveraging PHP(Laravel) and Javascript(AngularJS) as primary languages
+  *Served as main point of contact for web services department and interface with all layers of organization
+  *Architect and build new features for multiple departments
+  *Currently leveraging PHP(Laravel) and Javascript(AngularJS) as primary languages
 Redesigned global web presence for entire organization
 Rebuilt ecommerce process to improve PCI compliance and increase data security. Redesigned the UX for checkout and streamlined ecommerce process to 1 step checkout, increasing completed transactions and streamlining internal reconciliation processes.
 
